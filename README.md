@@ -177,7 +177,7 @@ Training dilakukan **sepenuhnya dengan `tf.GradientTape`** tanpa menggunakan `mo
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/bitcoin-forecasting-lstm-seq2seq.git
+git clone https://github.com/NadineParamita-14/bitcoin-forecasting-lstm-seq2seq.git
 cd bitcoin-forecasting-lstm-seq2seq
 ```
 
